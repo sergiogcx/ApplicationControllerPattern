@@ -80,7 +80,7 @@ public class Main {
             String class_name = null;
             String method_name = null;
 
-            // localhost:8000/controller/method?arg1=val&arg2=val2
+            // localhost:8000/controller/method?context=Business&arg2=val2
 
             // Parse URL Arguments
             Map<String, Object> parameters = new HashMap<String, Object>();

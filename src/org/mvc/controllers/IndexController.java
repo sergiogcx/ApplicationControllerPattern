@@ -29,16 +29,13 @@ public class IndexController extends Controller {
     // Our View handler ...
     public View view;
     public Context context_list;
-    DocumentBuilderFactory factory;
-    DocumentBuilder parser;
+
 
 
     // Default Layout initialization ...
     public IndexController() {
         try {
             context_list = new Context();
-            factory = DocumentBuilderFactory.newInstance();
-            parser = factory.newDocumentBuilder();
         } catch (Exception e) {
             System.out.println("Could not initialize xml parser: " + e.toString());
         }
