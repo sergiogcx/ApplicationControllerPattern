@@ -14,6 +14,7 @@ package org.mvc;
 
                             Application Controller Pattern
                           Sergio Garcia <gar13065@byui.edu>
+              https://github.com/sergiogcx/ApplicationControllerPattern.git
 
         Based From:
             https://github.com/sergiogcx/tinymvc.git
@@ -28,10 +29,6 @@ package org.mvc;
         Inspiration:
                 https://www.codeproject.com/Tips/1040097/Create-a-Simple-Web-Server-in-Java-HTTP-Server
                 http://whowish-programming.blogspot.com/2011/04/get-post-parameters-from-java-http.html
-
-        Dependencies:
-            - Jedis: https://github.com/xetorthio/jedis
-            - Simple JSON: https://github.com/fangyidong/json-simple
 */
 
 
