@@ -2,45 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6dcb4b47-917f-4f02-a44b-0892b727d149" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/org/mvc/Context.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/org/mvc/views/Layout_ContextMenuPartial.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/org/mvc/views/Layout_NewsPartial.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC/org/mvc/Controller.class" afterPath="$PROJECT_DIR$/out/production/MVC/org/mvc/Controller.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC/org/mvc/Main$MvcHandler.class" afterPath="$PROJECT_DIR$/out/production/MVC/org/mvc/Main$MvcHandler.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC/org/mvc/Main.class" afterPath="$PROJECT_DIR$/out/production/MVC/org/mvc/Main.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC/org/mvc/Model.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC/org/mvc/View.class" afterPath="$PROJECT_DIR$/out/production/MVC/org/mvc/View.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC/org/mvc/controllers/IndexController.class" afterPath="$PROJECT_DIR$/out/production/MVC/org/mvc/controllers/IndexController.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC/org/mvc/controllers/ProductController.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC/org/mvc/controllers/UserController.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC/org/mvc/models/Product.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC/org/mvc/models/User.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC/org/mvc/views/Layout.html" afterPath="$PROJECT_DIR$/out/production/MVC/org/mvc/views/Layout.html" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC/org/mvc/views/Product_CreateFormPartial.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC/org/mvc/views/Product_DetailsPartial.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC/org/mvc/views/Product_FindFormPartial.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC/org/mvc/views/Product_Layout.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC/org/mvc/views/Product_MenuPartial.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC/org/mvc/views/User_Layout.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/MVC/org/mvc/views/User_MainPartial.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/mvc/Controller.java" afterPath="$PROJECT_DIR$/src/org/mvc/Controller.java" />
-      <change beforePath="$PROJECT_DIR$/src/org/mvc/Main.java" afterPath="$PROJECT_DIR$/src/org/mvc/Main.java" />
-      <change beforePath="$PROJECT_DIR$/src/org/mvc/Model.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/mvc/View.java" afterPath="$PROJECT_DIR$/src/org/mvc/View.java" />
-      <change beforePath="$PROJECT_DIR$/src/org/mvc/controllers/IndexController.java" afterPath="$PROJECT_DIR$/src/org/mvc/controllers/IndexController.java" />
-      <change beforePath="$PROJECT_DIR$/src/org/mvc/controllers/ProductController.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/mvc/controllers/UserController.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/mvc/models/Product.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/mvc/models/User.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/mvc/views/Layout.html" afterPath="$PROJECT_DIR$/src/org/mvc/views/Layout.html" />
-      <change beforePath="$PROJECT_DIR$/src/org/mvc/views/Product_CreateFormPartial.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/mvc/views/Product_DetailsPartial.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/mvc/views/Product_FindFormPartial.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/mvc/views/Product_Layout.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/mvc/views/Product_MenuPartial.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/mvc/views/User_Layout.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/org/mvc/views/User_MainPartial.html" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -142,7 +104,7 @@
         <entry file="file://$PROJECT_DIR$/src/org/mvc/Context.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
-              <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+              <caret line="23" column="1" lean-forward="false" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
               <folding>
                 <element signature="e#536#537#0" expanded="true" />
                 <element signature="e#574#575#0" expanded="true" />
@@ -376,7 +338,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1280" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32446042" sideWeight="0.49765626" order="10" side_tool="false" content_ui="tabs" />
@@ -387,7 +348,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47647768" sideWeight="0.48426324" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.7009602" sideWeight="0.51573676" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.7009602" sideWeight="0.51573676" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28029078" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
@@ -674,7 +635,7 @@
     <entry file="file://$PROJECT_DIR$/src/org/mvc/Context.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
-          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+          <caret line="23" column="1" lean-forward="false" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
           <folding>
             <element signature="e#536#537#0" expanded="true" />
             <element signature="e#574#575#0" expanded="true" />
